@@ -10,7 +10,7 @@
 [Data Visualization](#Data-visualization)
 ### Project Oveview
 ---
-This data is to explore sales data to uncover key insights such as top-selling products, regional performance, and monthly sales trends.
+This data is to explore sales data to uncover key insights such as Understanding Customer behaviour, Track subscription types, and Identify Key trends in cancellation and renewals
 
 ### Data Sources
 ---
@@ -36,9 +36,9 @@ In the initial phase of the Data cleaning and preparation, I performed the follo
 ### Exploratory Data Analysis
 ---
 EDA involved the exploring of the Data to answer some questions such as;
-- Understanding Customer behaviour
-- Track subscription types
-- Identify Key trends in cancellation and renewals
+- What is the subscription patterns of customers
+- What is the average subscription duration and identify the most popular subscription types
+- Identify key trends in renewals and cancellation
 
 ### Data Analysis
 ---

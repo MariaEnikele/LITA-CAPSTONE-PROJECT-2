@@ -44,11 +44,32 @@ EDA involved the exploring of the Data to answer some questions such as;
 ---
 Enclosed are some of the line of codes/queries used in my analysis
 ```SQL
-SELECT *FROM TABLE1
-WHERE CONDITION= TRUE
-Excel Formulas used to calculate average per product and sales per region respectively
-=AVERAGEIF(C2:C50001, "Shoes",H2:H50001)
-=SUMIFSUMIF(C2:C75001,"North",H2:H75001)
+SELECT Region, COUNT(CustomerID) AS Total_Customers
+FROM subscriptions
+GROUP BY Region;
+SELECT SubscriptionType, COUNT(CustomerID) AS Total_Customers
+FROM subscriptions
+GROUP BY SubscriptionType
+ORDER BY Total_Customers DESC
+LIMIT 1;
+
+SELECT CustomerID, CustomerName, SubscriptionStart, SubscriptionEnd, Canceled
+FROM subscriptions
+WHERE Canceled = TRUE
+AND DATEDIFF(SubscriptionEnd, SubscriptionStart) <= 180;
+
+SELECT AVG(DATEDIFF(SubscriptionEnd, SubscriptionStart)) AS Average_Subscription_Duration
+FROM subscriptions;
+
+SELECT CustomerID, CustomerName, SubscriptionStart, SubscriptionEnd
+FROM subscriptions
+WHERE DATEDIFF(SubscriptionEnd, SubscriptionStart) > 365;
+
+
+
+
+Excel Formulas used to calculate difference from start date to end date
+=F2-E2
 
 ```
 ### Data Visualization

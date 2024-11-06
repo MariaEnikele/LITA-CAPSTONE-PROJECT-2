@@ -89,6 +89,12 @@ WHERE Canceled = 'True'
 GROUP BY Region
 ORDER BY CancellationCount DESC;
 
+-----------------Find the total number of active and canceled subscriptions--------------
+SELECT 
+    COUNT(CASE WHEN Canceled = 'True' THEN 1 END) AS CanceledSubscriptions,
+    COUNT(CASE WHEN Canceled = 'False' THEN 1 END) AS ActiveSubscriptions
+FROM [dbo].[customer data CSV];
+
 Excel Formulas used to calculate difference from start date to end date
 =F2-E2
 
@@ -121,3 +127,6 @@ Excel Formulas used to calculate difference from start date to end date
 ![calculate revenue by subscription type](https://github.com/user-attachments/assets/9ae84e65-752c-4a3a-9450-b19a431f5974)
 ## The top 3 regions by subscription cancellations
 ![TOP 3 REGION BY SUBSCRIPTION CANCELLATION](https://github.com/user-attachments/assets/eaf5b385-5596-482a-b643-b91efa298266)
+## Find the total number of active and canceled subscriptions.
+![total number of active and canceled subscriptions  PROJ 2](https://github.com/user-attachments/assets/dde4585c-4ef5-4a9b-9418-0d4891fb78f2)
+

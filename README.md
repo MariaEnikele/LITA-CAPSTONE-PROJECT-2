@@ -52,3 +52,17 @@ Excel Formulas used to calculate average per product and sales per region respec
 
 ```
 ### Data Visualization
+## Subscription Patterns
+- In the North and East regions the most popular subscription type is the Basic
+- South has majorly the Premium subscription type
+- West has the standard subscription type
+  ![Count of subscription type](https://github.com/user-attachments/assets/20b771c1-97b7-4392-80d7-97d0adaf714c)
+## Average subscription duration and identify the most popular 
+- The average subscription accross all types is about 365.35 Days and the most popular is the "Basic"
+![average period of subscription](https://github.com/user-attachments/assets/2ac8aa68-54ff-4892-bad0-126cc981b06f)
+## Average revenue by subscription type and region
+![average revenue by region and subscription type](https://github.com/user-attachments/assets/3ecb3212-af99-485e-a6e8-2e71bd2f7848)
+![chart ave  revenue](https://github.com/user-attachments/assets/61534b6e-2e28-40a6-b05b-2e11f1cc44d1)
+
+
+

@@ -130,3 +130,5 @@ Excel Formulas used to calculate difference from start date to end date
 ## Find the total number of active and canceled subscriptions.
 ![total number of active and canceled subscriptions  PROJ 2](https://github.com/user-attachments/assets/dde4585c-4ef5-4a9b-9418-0d4891fb78f2)
 
+###POWERBI
+

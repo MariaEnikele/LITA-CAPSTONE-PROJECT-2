@@ -133,3 +133,4 @@ Excel Formulas used to calculate difference from start date to end date
 ### POWERBI
 ## CUSTOMER SEGEMENTATION,CANCELLATIONS AND SUBSCRIPTION TRENDS
 ![PROJECT 2 DASHBOARD](https://github.com/user-attachments/assets/06e3e061-b366-460e-8188-263e904f3caf)
+![PROJECT 2 CONTD](https://github.com/user-attachments/assets/451b91b3-76ec-4e5d-b0a6-41911fcfb6d4)

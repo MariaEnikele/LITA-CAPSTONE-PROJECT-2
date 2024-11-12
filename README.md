@@ -131,6 +131,6 @@ Excel Formulas used to calculate difference from start date to end date
 ![total number of active and canceled subscriptions  PROJ 2](https://github.com/user-attachments/assets/dde4585c-4ef5-4a9b-9418-0d4891fb78f2)
 
 ### POWERBI
-## CUSTOMER SEGEMENTATION,CANCELLATIONS AND SUBSCRIPTION TRENDS
+## CUSTOMER SEGMENTATION,CANCELLATIONS AND SUBSCRIPTION TRENDS
 ![PROJECT 2 DASHBOARD](https://github.com/user-attachments/assets/06e3e061-b366-460e-8188-263e904f3caf)
 ![PROJECT 2 CONTD](https://github.com/user-attachments/assets/451b91b3-76ec-4e5d-b0a6-41911fcfb6d4)

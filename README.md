@@ -112,7 +112,7 @@ Excel Formulas used to calculate difference from start date to end date
 ![average revenue by region and subscription type](https://github.com/user-attachments/assets/3ecb3212-af99-485e-a6e8-2e71bd2f7848)
 ![chart ave  revenue](https://github.com/user-attachments/assets/61534b6e-2e28-40a6-b05b-2e11f1cc44d1)
 
-###SQL
+### SQL
 ## Total number of customers from each region
 ![total number of customer in each region proj 2](https://github.com/user-attachments/assets/cadeea92-51df-489f-9a11-1f952d610641)
 ##  Most popular subscription type by the number of customers
@@ -130,6 +130,6 @@ Excel Formulas used to calculate difference from start date to end date
 ## Find the total number of active and canceled subscriptions.
 ![total number of active and canceled subscriptions  PROJ 2](https://github.com/user-attachments/assets/dde4585c-4ef5-4a9b-9418-0d4891fb78f2)
 
-###POWERBI
-##CUSTOMER SEGENTATION,CANCELLATIONS AND SUBSCRIPTION TRENDS
+### POWERBI
+## CUSTOMER SEGENTATION,CANCELLATIONS AND SUBSCRIPTION TRENDS
 ![PROJECT 2 DASHBOARD](https://github.com/user-attachments/assets/06e3e061-b366-460e-8188-263e904f3caf)
